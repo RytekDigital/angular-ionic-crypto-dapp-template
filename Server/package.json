@@ -21,7 +21,7 @@
     "nodemailer": "^2.4.2",
     "parse-auditor": "^0.0.2",
     "parse-dashboard": "^5.2.0",
-    "parse-server": "^2.2.13",
+    "parse-server": "^5.5.6",
     "zimbra-admin-api-js": "ZBoxApp/zimbra-admin-api-js#master"
   }
 }
