@@ -1,0 +1,19 @@
+{
+  "name": "angular-ionic-crypto-dapp-template",
+  "version": "1.0.0",
+  "description": "A simple boilerplate repo for standing up quick dApps using the Ionic framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RytekDigital/angular-ionic-crypto-dapp-template.git"
+  },
+  "author": "DracattusDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RytekDigital/angular-ionic-crypto-dapp-template/issues"
+  },
+  "homepage": "https://github.com/RytekDigital/angular-ionic-crypto-dapp-template#readme"
+}
